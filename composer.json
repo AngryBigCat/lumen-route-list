@@ -17,6 +17,9 @@
         "php": ">=5.5.9",
         "illuminate/support": "~5.0|^6.0|^7.0|^8.0|^9.0"
     },
+    "replace": {
+        "appzcoder/lumen-routes-list": "1.1.0"
+    },
     "autoload": {
         "psr-4": {
             "Appzcoder\\LumenRoutesList\\": "src/"
